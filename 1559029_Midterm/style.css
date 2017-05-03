@@ -1,0 +1,58 @@
+.front-banner {
+    background-image: url(https://images2.alphacoders.com/782/782894.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-shadow: 1px 1px 1px white;
+    padding:10%
+    margin:0 auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 2% 16px;
+    text-decoration: none;
+}
+
+img{
+  border:0;
+  margin:auto;
+  background-size: cover;
+  width: 700px;
+}
+
+p1{
+  color:red;
+}
+
+.blue-bold {
+  color: #0088ff;
+  font-weight: bold;
+}
+
+.pullquote {
+    width: 55%;
+    background: rgba(1, 1, 1, 0.74);
+    position: relative;
+    top: 0px;
+    left: 7%;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px 0px;
+    margin: auto;
+    position: auto;
+}

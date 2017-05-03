@@ -1,0 +1,29 @@
+[2120:9144:0428/065244:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[2120:9144:0428/065244:VERBOSE1:crash_service.cc(142)] window handle is 000B065E
+[2120:9144:0428/065244:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\PROGRA~1\Java\JRE18~1.0_1\Atom Crashes
+[2120:9144:0428/065244:VERBOSE1:crash_service.cc(288)] checkpoint is C:\PROGRA~1\Java\JRE18~1.0_1\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[2120:9144:0428/065244:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[2120:9204:0428/065244:VERBOSE1:crash_service.cc(317)] client start. pid = 9020
+[2120:9204:0428/065245:VERBOSE1:crash_service.cc(317)] client start. pid = 9148
+[7648:7608:0428/065245:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom --v=1]
+[7648:7608:0428/065245:VERBOSE1:crash_service.cc(142)] window handle is 0007085C
+[7648:7608:0428/065245:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\PROGRA~1\Java\JRE18~1.0_1\Atom Crashes
+[7648:7608:0428/065245:VERBOSE1:crash_service.cc(288)] checkpoint is C:\PROGRA~1\Java\JRE18~1.0_1\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[7648:7608:0428/065245:ERROR:crash_service.cc(295)] could not start dumper
+[2120:264:0428/065251:VERBOSE1:crash_service.cc(325)] client end. pid = 9148
+[2120:264:0428/065252:VERBOSE1:crash_service.cc(325)] client end. pid = 9020
+[2120:264:0428/065253:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[2120:9144:0428/065253:VERBOSE1:crash_service.cc(486)] session ending..
+[2120:9144:0428/065253:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[2120:9144:0428/065253:VERBOSE1:crash_service_main.cc(97)] Session end. return code is 0
